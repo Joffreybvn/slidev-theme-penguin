@@ -107,7 +107,7 @@ html:not(.dark) #slide-content {
   }
 
   .slidev-code-wrapper > pre {
-    max-width: 400px;
+    overflow: unset;
   }
 
   iframe label.btn {
